@@ -19,12 +19,16 @@ body {
 
 .left-column {
     width: 40%;
+    /* height: 600px; */
     float: left;
     padding: 40px;
-    background-color: #6c6da6;
-    color: white;
-    background-image: url(../man-on-the-hill.jpeg);
+    background-color: #6c6da6; 
+    background-image: url(../img/man-on-the-hill.jpeg);
     background-size: cover;
+    /* background-repeat: no-repeat; */
+    background-position: center;
+    color: white;
+    
 }
 
 .main-title {
