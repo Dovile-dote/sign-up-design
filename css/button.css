@@ -6,11 +6,21 @@
     padding-right: 30px;
     border-radius: 20px;
     border-color: #00f;
-    background-color: #015cda;
+    background: rgb(57, 48, 231);
+    background: linear-gradient(   
+        90deg, 
+        #234ad5 0%,
+        #0265de
+    );
     color: #fff;
     cursor: pointer;
 }
 
 .btn:hover {
-    background-color: #36f;
+    background: #234ad5;
+    background: linear-gradient(   
+        -90deg, 
+        #234ad5 0%,
+        #0265de
+    );
 }
