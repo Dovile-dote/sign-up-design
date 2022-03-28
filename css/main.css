@@ -1,6 +1,10 @@
 body {
     height: 100vh;
     position: relative;
+    background-image: url(../img/man-on-the-hill.jpeg);
+    background-size: cover;
+    background-position: center;
+    backdrop-filter: blur(10px);
 }
 
 .container {
