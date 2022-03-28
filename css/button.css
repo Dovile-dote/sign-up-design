@@ -6,21 +6,25 @@
     padding-right: 30px;
     border-radius: 20px;
     border-color: #00f;
-    background: rgb(57, 48, 231);
+    /* background: rgb(57, 48, 231);
     background: linear-gradient(   
         90deg, 
         #234ad5 0%,
         #0265de
-    );
+    ); */
+    background: rgb(2,0,36);
+background: linear-gradient(41deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 0%, rgba(7,52,149,1) 29%, rgba(5,103,183,1) 75%, rgba(0,212,255,1) 100%);
     color: #fff;
     cursor: pointer;
 }
 
 .btn:hover {
-    background: #234ad5;
+    /* background: #234ad5;
     background: linear-gradient(   
         -90deg, 
         #234ad5 0%,
         #0265de
-    );
+    ); */
+    background: rgb(2,0,36);
+background: linear-gradient(-41deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 0%, rgba(7,52,149,1) 29%, rgba(5,103,183,1) 75%, rgba(0,212,255,1) 100%);
 }
